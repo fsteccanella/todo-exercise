@@ -21,6 +21,10 @@ Using the same applications try to replicate the following architecture in a loc
 
 ![Architecuture](./.docs/phase2.png)
 
+### Phase 3
+
+Deploy the same infrastructure in AWS using native Services (no EKS), the acrchitecture must be in HA, deploy it using an IaC Framework and the applications must have its CICD pipelines
+
 ## Useful resources
 
 - https://docs.docker.com/build/building/multi-stage/
